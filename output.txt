@@ -1,0 +1,7 @@
+[2025-12-04 10:15:01] Get data by ID 1 
+[2025-12-04 10:17:01] Director updated for ID 2 
+
+[2025-12-04 10:28:29] GET Data By Id 2 {"detail": "GET Data By Id", "id": 2}
+[2025-12-04 10:30:53] [<models.IMDB object at 0x78e96b78e590>],3 {"detail": "Get data", "id": 3}
+[2025-12-04 10:32:08] Director updated for ID 4 {"detail": "Director updated", "id": 4}
+[2025-12-04 10:32:49] Data Deleted for ID 246 {"detail": "Data Deleted", "id": 246}
